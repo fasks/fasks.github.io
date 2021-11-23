@@ -1,21 +1,18 @@
-## 王邵俊
+## 王邵俊(2003060012)
+QQ:1958540340   VX:wsj1958540340
 
-我来自湖南衡阳
+##个人简介
+姓名：王邵俊
+性别：男
+籍贯：湖南衡阳
+学校：湖南工商大学
+就读专业：金融数学
+政治面貌：共青团团员
+电子邮件：1958540340@qq.com
 
-You can use the [editor on GitHub](https://github.com/fasks/fasks.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+ 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+ 
 
 - Bulleted
 - List
